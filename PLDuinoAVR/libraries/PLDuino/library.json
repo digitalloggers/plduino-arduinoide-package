@@ -1,0 +1,9 @@
+{
+  "name": "PLDuino",
+  "keywords": "general",
+  "description": "General purpose library for PLDuino controller. Contains necessary definitions and initialization functions.",
+  "include": "PLDuino",
+  "repository": { "type": "git", "url": "https://github.com/digitalloggers/PLDuino" },
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
