@@ -10,9 +10,6 @@ To use:
 - Open *Tools > Board > Boards Manager...*
 - Install **esp8266**, **PLDuino/ESP-02** and **PLDuino/Mega2560**.
 
-Two boards:
-  **PLDuino/ESP-02**
-  **PLDuino/Mega2560**
-must appear in *Tools > Board* list.
+Two boards: **PLDuino/ESP-02** and **PLDuino/Mega2560** must appear in *Tools > Board* list.
 
 It supports Windows, OSX/macOS and Linux (i686, x86_64) operating systems.
