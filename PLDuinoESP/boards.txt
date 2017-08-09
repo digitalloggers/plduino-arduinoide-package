@@ -3,7 +3,7 @@ PLDuinoESP.name=PLDuino/ESP-02
 PLDuinoESP.upload.tool=esptool-plduino
 PLDuinoESP.upload.speed=115200
 PLDuinoESP.upload.resetmethod=ck
-PLDuinoESP.upload.maximum_size=434160
+PLDuinoESP.upload.maximum_size=1044464
 PLDuinoESP.upload.maximum_data_size=81920
 PLDuinoESP.upload.wait_for_upload_port=true
 
@@ -13,12 +13,12 @@ PLDuinoESP.build.board=PLDuinoESP
 PLDuinoESP.build.core=esp8266:esp8266
 PLDuinoESP.build.variant=PLDuinoESP
 PLDuinoESP.build.flash_mode=qio
-PLDuinoESP.build.flash_size=512K
-PLDuinoESP.build.flash_ld=eagle.flash.512k64.ld
-PLDuinoESP.build.spiffs_start=0x6B000
-PLDuinoESP.build.spiffs_end=0x7B000
-PLDuinoESP.build.spiffs_blocksize=4096
-PLDuinoESP.upload.maximum_size=434160
+PLDuinoESP.build.flash_size=4M
+PLDuinoESP.build.flash_ld=eagle.flash.4m.ld
+PLDuinoESP.build.spiffs_start=0x100000
+PLDuinoESP.build.spiffs_end=0x3FB000
+PLDuinoESP.build.spiffs_blocksize=8192
+PLDuinoESP.upload.maximum_size=1044464
 PLDuinoESP.build.spiffs_pagesize=256
 PLDuinoESP.build.flash_freq=40
 
