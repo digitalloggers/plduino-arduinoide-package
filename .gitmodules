@@ -1,15 +1,15 @@
 [submodule "PLDuinoESP/libraries/ESP8266WeMo-library"]
 	path = PLDuinoESP/libraries/ESP8266WeMo-library
-	url = https://github.com/ddrd/ESP8266WeMo-library
+	url = https://github.com/digitalloggers/ESP8266WeMo-library
 [submodule "PLDuinoESP/libraries/ESP8266WebFileManager-library"]
 	path = PLDuinoESP/libraries/ESP8266WebFileManager-library
-	url = https://github.com/ddrd/ESP8266WebFileManager-library
+	url = https://github.com/digitalloggers/ESP8266WebFileManager-library
 [submodule "PLDuinoAVR/libraries/PLDuino-library"]
 	path = PLDuinoAVR/libraries/PLDuino-library
-	url = https://github.com/ddrd/PLDuino-library
+	url = https://github.com/digitalloggers/PLDuino-library
 [submodule "PLDuinoAVR/libraries/PLDuinoGUI-library"]
 	path = PLDuinoAVR/libraries/PLDuinoGUI-library
-	url = https://github.com/ddrd/PLDuinoGUI-library
+	url = https://github.com/digitalloggers/PLDuinoGUI-library
 [submodule "PLDuinoAVR/libraries/PLDtouch-library"]
 	path = PLDuinoAVR/libraries/PLDtouch-library
-	url = https://github.com/ddrd/PLDtouch-library
+	url = https://github.com/digitalloggers/PLDtouch-library
