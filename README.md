@@ -8,7 +8,7 @@ To use:
     https://raw.githubusercontent.com/ddrd/tmp-plduino-arduino/master/dist/package_PLDuino_index.json
     http://arduino.esp8266.com/stable/package_esp8266com_index.json
 - Open *Tools > Board > Boards Manager...*
-- Install **esp8266** package. Please choose v2.3.0.
+- Install **esp8266** package. Please choose v2.4.0.
 - Install **PLDuino/ESP-02** and **PLDuino/Mega2560** packages.
 
 Two boards: **PLDuino/ESP-02** and **PLDuino/Mega2560** must appear in *Tools > Board* list.
